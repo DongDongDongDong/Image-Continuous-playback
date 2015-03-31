@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    self.containerView.frame = CGRectMake(0,0,375, 260);
+    self.containerView.frame = CGRectMake(0,0,375, 200);
 }
 
 
